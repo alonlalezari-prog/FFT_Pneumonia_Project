@@ -1,4 +1,4 @@
-FFT pneumonia project using DenseNet121 Inputs: 
+FFT pneumonia project using DenseNet $121$ Inputs: 
 1. Low Pass Filter images
 2. High Pass filter images
 3. Raw images
